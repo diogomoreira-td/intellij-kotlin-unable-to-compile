@@ -1,0 +1,34 @@
+exceptions:
+  active: true
+  TooGenericExceptionCaught:
+    active: false
+
+style:
+  active: true
+  MagicNumber:
+    ignorePropertyDeclaration: true
+    ignoreEnums: true
+
+comments:
+  active: true
+
+complexity:
+  active: true
+
+coroutines:
+  active: true
+
+empty-blocks:
+  active: true
+
+formatting:
+  active: true
+
+naming:
+  active: true
+
+performance:
+  active: true
+
+potential-bugs:
+  active: true
